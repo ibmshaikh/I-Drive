@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="screen_padding">16dp</dimen>
+
+    <!--
+Refer to App Widget Documentation for margin information
+http://developer.android.com/guide/topics/appwidgets/index.html#CreatingLayout
+    -->
+
+    <!-- TEXT SIZES -->z
+    <dimen name="x_large_text_size">28sp</dimen>
+    <dimen name="large_text_size">22sp</dimen>
+    <dimen name="medium_text_size">18sp</dimen>
+    <dimen name="small_text_size">12sp</dimen>
+    <dimen name="tiny_text_size">8sp</dimen>
+    <dimen name="small_tiny_text_size">10sp</dimen>
+
+
+    <!-- SHOWCASE   -->
+    <dimen name="showcase_textsize">48sp</dimen>
+    <dimen name="showcase_sec_textsize">24sp</dimen>
+    <dimen name="showcase_radius">36dp</dimen>
+    <dimen name="showcase_radius_inner">36dp</dimen>
+    <dimen name="showcase_radius_outer">128dp</dimen>
+    <dimen name="showcase_radius_material">36dp</dimen>
+
+    <!--GENERAL SIZES FOR ACTIVITY-->
+    <dimen name="half_margin">8dp</dimen>
+    <dimen name="medium_margin">12dp</dimen>
+    <dimen name="button_height">54dp</dimen>
+    <dimen name="triple_activity_margin">54dp</dimen>
+    <dimen name="double_activity_margin">32dp</dimen>
+    <dimen name="min_width_dialog">250dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="selected_score_text_size">18dp</dimen>
+    <dimen name="not_selected_score_text_size">14dp</dimen>
+
+    <dimen name="quarter_margin">4dp</dimen>
+    <dimen name="wootric_rating_track_width">2dp</dimen>
+    <dimen name="wootric_rating_bar_padding_vertical">24dp</dimen>
+
+    <dimen name="custom_layout_edittext">12dp</dimen>
+    <dimen name="creator_button_pressed_stroke_width">1dp</dimen>
+    <dimen name="creator_text_input_bottom_margin">10dp</dimen>
+    <dimen name="border_stroke_width">1dp</dimen>
+    <dimen name="half_padding">8dp</dimen>
+    <dimen name="listview_width">400dp</dimen>
+
+
+    <!--fast scroller -->
+    <dimen name="fastscroll__bubble_corner">20dp</dimen>
+    <dimen name="fastscroll__bubble_size">50dp</dimen>
+    <dimen name="fastscroll__handle_corner">3dp</dimen>
+    <dimen name="fastscroll__handle_height">30dp</dimen>
+    <dimen name="fastscroll__handle_width">6dp</dimen>
+    <dimen name="fastscroll__handle_inset">9dp</dimen>
+    <dimen name="fastscroll__handle_clickable_width">24dp</dimen>
+    <dimen name="fastscroll__handle_padding">2dp</dimen>
+</resources>
