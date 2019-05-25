@@ -30,6 +30,7 @@ public class Register extends AppCompatActivity {
 
         mAuth = FirebaseAuth.getInstance();
         if (mAuth.getCurrentUser()!=null){
+            finish();
             startActivity(new Intent(Register.this,Dashboard.class));
         }
 
